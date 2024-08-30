@@ -8,17 +8,17 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import npm from "./tech/npm.png";
+import vuejs from "./tech/vuejs.webp";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import vuetify from "./tech/vuetify.webp";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import bootstrap from "./tech/bootstrap.webp";
 import threejs from "./tech/threejs.svg";
 
 import aptcoder from "./company/aptcoder.webp";
@@ -37,17 +37,17 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
+  npm,
+  vuejs,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  vuetify,
   tailwind,
-  typescript,
+  bootstrap,
   threejs,
   aptcoder,
   carrent,
