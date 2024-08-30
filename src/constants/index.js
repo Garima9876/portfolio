@@ -98,11 +98,11 @@ const technologies = [
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "Bootstrap",
+    name: "Bootstrap CSS",
     icon: bootstrap,
   },
   {
